@@ -1,1 +1,6 @@
+name: Trebuchet
+markdown: kramdown
+
 theme: jekyll-theme-cayman
+
+site.title: Trebuchet
