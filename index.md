@@ -10,6 +10,5 @@ title: Trebuchet
 
 We are a small indie developer based in Montreal, Quebec. We are currently working on **Prison Boss VR**, an awesome game for HTC Vive, scheduled for July 2017.
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/kq2H3kPmajk" frameborder="0" allowfullscreen></iframe></p>
-
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kq2H3kPmajk" frameborder="0" allowfullscreen></iframe></div>
 

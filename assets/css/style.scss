@@ -10,3 +10,23 @@ body { padding: 0; margin: 0; font-family: "Assistant", Helvetica, Arial, sans-s
 @media screen and (min-width: 64em) { .page-header { padding: 5rem 6rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 3rem 4rem; } }
 @media screen and (max-width: 42em) { .page-header { padding: 2rem 1rem; } }
+
+.page-header .fa {
+    padding: 12px 60px;
+    color: white;
+    font-size: 30px;
+}
+
+.main-content .video-container {
+    position: relative;
+    padding-bottom: 55%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.main-content .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
