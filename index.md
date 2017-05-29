@@ -4,8 +4,6 @@ layout: default
 title: Trebuchet
 
 ---
-![trebuchet](https://media.giphy.com/media/3oKIP5Ph5Fgf97qbvi/giphy.gif)
-{: style="text-align: center"}  
 
 ### Our site is still in construction, but you can reach us at **contact@trebuchet.fun**
 {: style="text-align: center"}
