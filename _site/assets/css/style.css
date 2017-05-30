@@ -332,6 +332,6 @@ body { padding: 0; margin: 0; font-family: "Assistant", Helvetica, Arial, sans-s
 
 .main-content .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
-.main-content .widget-container { position: relative; padding-bottom: 55%; text-align: center; }
+.main-content .widget-container { position: relative; text-align: center; }
 
 .main-content .widget-container iframe { top: 0; left: 0; }
