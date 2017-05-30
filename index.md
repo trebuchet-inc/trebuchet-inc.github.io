@@ -17,5 +17,9 @@ We are a small indie developer based in Montreal, Quebec. We are currently worki
 <br />
 <br />
 
-<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kq2H3kPmajk" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kq2H3kPmajk" frameborder="0" allowfullscreen></iframe>
+</div>
 
+<br />
+
+<div class="widget-container"><iframe src="http://steamcommunity.com/sharedfiles/widget/883091969" width="336" height="137" frameborder="0" scrolling="no"></iframe>
