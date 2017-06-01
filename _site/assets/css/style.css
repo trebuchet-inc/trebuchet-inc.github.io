@@ -335,3 +335,5 @@ body { padding: 0; margin: 0; font-family: "Assistant", Helvetica, Arial, sans-s
 .main-content .widget-container { position: relative; text-align: center; }
 
 .main-content .widget-container iframe { top: 0; left: 0; }
+
+.main-content .french { color: slategray; }
