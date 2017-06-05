@@ -12,7 +12,7 @@ title: Trebuchet
 
 <br />
 
-Trebuchet is a VR development studio which specialize in creating software for the varying VR platforms. It aim to produce content for training and medical purposes, immersive experiences and finally video games for the mass market.
+Trebuchet is a VR development studio which specializes in creating software for the varying VR platforms. It produces content for training and medical purposes, immersive experiences and finally video games for the mass market.
 
 <div class="french">Trebuchet est un studio de développement de réalité virtuelle, spécialisé dans la création d'applications pour les différentes plateformes VR. Nous visons à produire aussi bien du contenu éducationnel, thérapeutique, des expériences immersives que du jeu vidéo pour le grand public.</div>
 
