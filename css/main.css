@@ -6,11 +6,11 @@ body {
   padding-bottom: 40px;
   background-color: #f1f1f1;
   font-family: "Assistant", Helvetica, Arial, sans-serif; 
-  font-size: 20px; 
+  font-size: 22px;
+  font-weight: 700; 
   line-height: 1.5; 
   color: #606c71; 
 }
-
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
@@ -39,10 +39,13 @@ body {
   line-height: 100px;
   height: 100px;
   padding-top: 0;
+  font-size: 25px;
+  font-weight: 800;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #faec3a;
+  background-color: #5c4cff;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
@@ -118,7 +121,38 @@ body {
 -------------------------------------------------- */
 
 .jumbotron {
+  background: #f1f1f1;
+}
 
+/*  BUTTONS
+-------------------------------------------------- */
+
+.btn {
+    padding: 14px 24px;
+    border: 0 none;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+ 
+.btn:focus, .btn:active:focus, .btn.active:focus {
+    outline: 0 none;
+}
+ 
+.btn-primary {
+    background: #f9b219;
+    color: #f1f1f1;
+}
+ 
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: #5c4cff;
+    box-shadow: none;
+    color: #faec3a;
+}
+ 
+.btn-primary:active, .btn-primary.active {
+    background: #5c4cff;
+    box-shadow: none;
 }
 
 /* MARKETING CONTENT
