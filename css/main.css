@@ -12,6 +12,10 @@ body {
   color: #606c71; 
 }
 
+h1, h2, h3, h4 {
+  font-family: "ratio", sans-serif;
+}
+
 .fourofour{
   font-size: 60px;
 }
