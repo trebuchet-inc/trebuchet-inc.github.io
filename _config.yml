@@ -4,3 +4,6 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 
 site.title: Trebuchet
+
+gems:
+  - jekyll-sitemap
