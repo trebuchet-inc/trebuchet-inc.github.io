@@ -14,14 +14,7 @@ layout: default
         </div>
     </div>
 
-    <!-- Marketing messaging and featurettes
-    ================================================== -->
-    <!-- Wrap the rest of the page in another container to center all the content. -->
-
     <div class="container marketing">
-
-      <!-- START THE FEATURETTES -->
-
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">What is Trebuchet?</h2>
@@ -40,20 +33,21 @@ layout: default
 
       <hr class="featurette-divider">
 
-      <!-- /END THE FEATURETTES -->
-      
-      <!-- Three columns of text below the carousel -->
-      <div class="row">
+    <div class="row">
         <div class="col-lg-4">
           <img class="img-circle" src="/img/guillaume.png" alt="Generic placeholder image" width="140" height="140">
           <h2>Guillaume Duquesne</h2>
-          <p>Animal tout naze peu capable.</p>
+          <p>
+            Animal tout naze peu capable.
+          </p>
         </div><!-- /.col-lg-4 -->
 
         <div class="col-lg-4">
           <img class="img-circle" src="/img/vincent.png" alt="Generic placeholder image" width="140" height="140">
           <h2>Vincent Brunet-Dupont</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+          <p>
+            Masterchief of Siege Operations
+          </p>
         </div><!-- /.col-lg-4 -->
 
         <div class="col-lg-4">
@@ -67,12 +61,17 @@ layout: default
       </div><!-- /.row -->
 
     </div><!-- /.container -->
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <div class="row subscriber">
+      <div class="col-md-3"> 
+        
+      </div>
+      <div class="col-md-6"> 
+          {% include newsletter.html %}      
+      </div>
+      <div class="col-md-3"> 
+        
+      </div>
+    </div>
 
   </body>
 </html>

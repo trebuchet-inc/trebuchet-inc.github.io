@@ -3,17 +3,36 @@
 /* Padding below the footer and lighter body text */
 
 body {
-  padding-bottom: 40px;
   background-color: #f1f1f1;
-  font-family: "ff-tisa-web-pro", "Assistant", Helvetica, Arial, sans-serif; 
-  font-size: 22px;
   font-weight: 700; 
   line-height: 1.5; 
-  color: #606c71; 
+  color: #1d1d1b; 
+}
+
+a {
+  font-family: "ff-tisa-web-pro", "Assistant", sans-serif; 
+  font-size: 22px;
+}
+
+p {
+  font-family: "ff-tisa-web-pro", "Assistant", sans-serif; 
+  font-size: 22px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "ratio", "Assistant", Helvetica, sans-serif; 
 }
 
 .fourofour{
   font-size: 60px;
+}
+
+.subscriber {
+  background: #faec3a;
+}
+
+.subscriber p{
+  color: #5c4cff;
 }
 
 /* CUSTOMIZE THE NAVBAR
@@ -125,9 +144,13 @@ body {
 -------------------------------------------------- */
 
 .jumbotron {
-  background: url("/img/banniere_yellow.png") no-repeat center center;
+  background: url("/img/pbvr01.jpg") no-repeat center center;
   background-size: cover;
   height: 500px;
+}
+
+.jumbotron h1,h2,h3,h4 {
+  color: #f1f1f1;
 }
 
 /*  BUTTONS
@@ -146,8 +169,8 @@ body {
 }
  
 .btn-primary {
-    background: #f9b219;
-    color: #f1f1f1;
+    background: #faec3a;
+    color: #5c4cff;
 }
  
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
@@ -189,6 +212,7 @@ body {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -1px;
+  color: #1d1d1b;
 }
 
 /* BLOG CSS
@@ -231,7 +255,13 @@ body {
 -------------------------------------------------- */
 
 .site-footer {
-  padding-top: 50px;
+  padding-top: 25px;
+  padding-bottom: 10px;
+  background: #f9b219;
+}
+
+.site-footer p {
+  color: #f1f1f1;
 }
 
 /* RESPONSIVE CSS
