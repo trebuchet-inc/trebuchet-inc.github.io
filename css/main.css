@@ -3,21 +3,36 @@
 /* Padding below the footer and lighter body text */
 
 body {
-  padding-bottom: 40px;
   background-color: #f1f1f1;
-  font-family: "ff-tisa-web-pro", "Assistant", Helvetica, Arial, sans-serif; 
-  font-size: 22px;
   font-weight: 700; 
   line-height: 1.5; 
-  color: #606c71; 
+  color: #1d1d1b; 
 }
 
-h1, h2, h3, h4 {
-  font-family: "ratio", sans-serif;
+a {
+  font-family: "ff-tisa-web-pro", "Assistant", sans-serif; 
+  font-size: 22px;
+}
+
+p {
+  font-family: "ff-tisa-web-pro", "Assistant", sans-serif; 
+  font-size: 20px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "ratio", "Assistant", Helvetica, sans-serif; 
 }
 
 .fourofour{
   font-size: 60px;
+}
+
+.subscriber {
+  background: #faec3a;
+}
+
+.subscriber p{
+  color: #5c4cff;
 }
 
 /* CUSTOMIZE THE NAVBAR
@@ -129,9 +144,36 @@ h1, h2, h3, h4 {
 -------------------------------------------------- */
 
 .jumbotron {
-  background: url("/img/banniere_yellow.png") no-repeat center center;
+  background: url("/img/pbvr02.png") no-repeat center center;
   background-size: cover;
   height: 500px;
+}
+
+.jumbotron > h1, 
+.jumbotron > h2, 
+.jumbotron > h3, 
+.jumbotron > h4, {
+  color: #1d1d1b;
+}
+
+.jumbotron-title 
+{
+  background-color: #1d1d1b;
+  color: #f1f1f1;
+  display: inline-block;
+  padding-top: 0px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.jumbotron-subtitle 
+{
+  color: #1d1d1b;
+  font-weight: 700;
+}
+
+.jumbotron-title h1{
+  margin: 0px;
 }
 
 /*  BUTTONS
@@ -150,8 +192,8 @@ h1, h2, h3, h4 {
 }
  
 .btn-primary {
-    background: #f9b219;
-    color: #f1f1f1;
+    background: #faec3a;
+    color: #5c4cff;
 }
  
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
@@ -185,14 +227,64 @@ h1, h2, h3, h4 {
 ------------------------- */
 
 .featurette-divider {
-  margin: 80px 0; /* Space out the Bootstrap <hr> more */
+  margin: 10px 0; /* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */
 .featurette-heading {
   font-weight: 300;
   line-height: 1;
-  letter-spacing: -1px;
+  letter-spacing: 0px;
+  color: #1d1d1b;
+}
+
+/* BLOG CSS
+-------------------------------------------------- */
+
+.blogindex li {
+  list-style-type: none;
+}
+
+.blog-post {
+  margin-bottom: 60px;
+  padding-top: 60px;
+}
+
+.blog-post img{
+  text-align: center;
+}
+
+.blog-post-title {
+  margin-bottom: 5px;
+  font-size: 40px;
+}
+.blog-post-title h2 {
+  font-weight: 900;
+}
+
+.blogindex:hover .blog-post-title a:hover {
+  background: #5c4cff;
+  color: #faec3a;
+  text-decoration: none;
+}
+
+.blog-post-meta {
+  margin-bottom: 10px;
+  color: #999;
+  padding-bottom: 20px;
+}
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+.site-footer {
+  padding-top: 25px;
+  padding-bottom: 10px;
+  background: #f9b219;
+}
+
+.site-footer p {
+  color: #f1f1f1;
 }
 
 /* BLOG CSS
