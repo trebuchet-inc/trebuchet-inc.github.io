@@ -144,13 +144,16 @@ h1,h2,h3,h4,h5,h6 {
 -------------------------------------------------- */
 
 .jumbotron {
-  background: url("/img/pbvr01.jpg") no-repeat center center;
+  background: url("/img/pbvr02.png") no-repeat center center;
   background-size: cover;
   height: 500px;
 }
 
-.jumbotron h1,h2,h3,h4 {
-  color: #f1f1f1;
+.jumbotron > h1, 
+.jumbotron > h2, 
+.jumbotron > h3, 
+.jumbotron > h4, {
+  color: #1d1d1b;
 }
 
 /*  BUTTONS
