@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Prison Boss VR</title>
+  <release-date>August, 28th, 2017</release-date>
+  <website></website>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request></press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>PC / HTC Vive</name>
+      <link></link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>$</currency>
+      <value>19.99</value>
+    </price>
+  </prices>
+
+  <description>
+    Prison Boss VR is a crafting and trading game using room-scale to turn your VR space into a jail cell! 
+    Craft cigarettes, alcohol and cookies for other inmates! Customize your cell as your reputation grows!
+    Earn cash until you can’t store it anymore and become the Prison Boss!
+  </description>
+
+  <!-- Choose between a single block: -->
+  <!-- <history>
+
+  </history> -->
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <features>
+    <feature>
+      11 unique crafts recipe!
+    </feature>
+    <feature>
+      4 prisons with over 80 jobs to complete
+    </feature>
+    <feature>
+      Unlockable Arcade Mode!
+    </feature>
+    <feature>
+      Play in VR room-scale the way it was meant to be played!
+    </feature>
+    <feature>
+      Great Jazzy soundtrack!
+    </feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name></name>
+
+      <!-- Pick one: -->
+      <youtube>
+        <!-- Video ID only, not the full URL -->
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <steam>
+      673600
+    </steam>
+    <humble>
+      <!-- Humble Bundle product/id -->
+      <!-- e.g. mysupergame/42AAbB42dC -->
+    </humble>
+    <itch>
+      <!-- itch.io ID -->
+      <!-- e.g. 42424 -->
+    </itch>   
+  </widgets>
+
+  <!-- <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>
+
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals> -->
+
+  <credits>
+    <credit>
+      <person>Vincent Brunet-Dupont</person>
+      <role>Game Designer, Programmer</role>      
+    </credit>
+    <credit>
+      <person>Guillaume Duquesne</person>
+      <role>Game Designer, Programmer</role>      
+    </credit>
+    <credit>
+      <person>Alexandre Pernot Lopes</person>
+      <role>Game Designer, Programmer</role>      
+    </credit>
+    <credit>
+      <person>Lucie Le Touze</person>
+      <role>Graphic Designer</role>      
+    </credit>
+    <credit>
+      <person>Xavier Trudeau-Deschênes</person>
+      <role>3D Artist / Animator</role>      
+    </credit>
+    <credit>
+      <person>Patrick Bacon</person>
+      <role>3D Artist</role>      
+    </credit>
+    <credit>
+      <person>Anthony </person>
+      <role>Texture Artist</role>      
+    </credit>
+    <credit>
+      <person>Diego Bermudez-Chamberlain</person>
+      <role>Sound Designer</role>      
+    </credit>
+    <credit>
+      <person>Pierre-Antoine Savoie</person>
+      <role>Sound Designer</role>      
+    </credit>
+    <credit>
+      <person>Romain Camiolo</person>
+      <role>Music</role>      
+    </credit>
+    <credit>
+      <person>Olivier Leclair</person>
+      <role>Narrative Designer</role>      
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name></name>
+
+      <!-- Pick one: -->
+      <mail></mail>
+      <link></link>
+    </contact>
+  </contacts>
+</product>
