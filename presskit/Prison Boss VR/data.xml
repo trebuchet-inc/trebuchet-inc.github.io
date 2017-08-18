@@ -2,7 +2,8 @@
 <product>
   <title>Prison Boss VR</title>
   <release-date>August, 28th, 2017</release-date>
-  <website></website>
+  <website>
+  </website>
 
   <!-- Link to request press copy: -->
   <press-copy-request></press-copy-request>
@@ -10,7 +11,9 @@
   <platforms>
     <platform>
       <name>PC / HTC Vive</name>
-      <link></link>
+      <link>
+        http://store.steampowered.com/app/673600/Prison_Boss_VR/
+      </link>
     </platform>
   </platforms>
 
@@ -66,7 +69,7 @@
 
       <!-- Pick one: -->
       <youtube>
-        <!-- Video ID only, not the full URL -->
+        oA-FSrhlZxQ
       </youtube>
     </trailer>
   </trailers>
@@ -81,8 +84,7 @@
       <!-- e.g. mysupergame/42AAbB42dC -->
     </humble>
     <itch>
-      <!-- itch.io ID -->
-      <!-- e.g. 42424 -->
+      156325
     </itch>   
   </widgets>
 
@@ -117,7 +119,7 @@
     </credit>
     <credit>
       <person>Guillaume Duquesne</person>
-      <role>Game Designer, Programmer</role>      
+      <role>Lead Programmer</role>      
     </credit>
     <credit>
       <person>Alexandre Pernot Lopes</person>
@@ -136,8 +138,12 @@
       <role>3D Artist</role>      
     </credit>
     <credit>
-      <person>Anthony </person>
+      <person>Anthony Vaucheret</person>
       <role>Texture Artist</role>      
+    </credit>
+    <credit>
+      <person>Kim Berthiaume</person>
+      <role>UI Artist</role>      
     </credit>
     <credit>
       <person>Diego Bermudez-Chamberlain</person>
