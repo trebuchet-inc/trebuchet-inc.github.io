@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <product>
   <title>Prison Boss VR</title>
-  <release-date>August, 28th, 2017</release-date>
+
+  <release-dates>
+    <release-date>29 Aug, 2017</release-date>
+  </release-dates>
+
   <website>
+    http://www.prisonbossvr.com
   </website>
 
   <!-- Link to request press copy: -->
