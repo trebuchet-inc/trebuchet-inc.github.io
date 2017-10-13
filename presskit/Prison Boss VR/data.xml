@@ -35,10 +35,9 @@
     Earn cash until you can’t store it anymore and become the Prison Boss!
   </description>
 
-  <!-- Choose between a single block: -->
-  <!-- <history>
-
-  </history> -->
+  <history>
+    In October 2017, the game has been updated to work with Oculus Rift. The update also introduced new content and some gameplay changes regarding cell searches.
+  </history>
 
   <!-- Or multiple blocks: -->
   <!--
@@ -70,7 +69,7 @@
 
   <trailers>
     <trailer>
-      <name></name>
+      <name>Launch Trailer</name>
 
       <!-- Pick one: -->
       <youtube>
@@ -84,11 +83,8 @@
     <steam>
       673600
     </steam>
-    <humble>
-      <!-- Humble Bundle product/id -->
-      <!-- e.g. mysupergame/42AAbB42dC -->
-    </humble>
     <itch>
+      156325
     </itch>   
   </widgets>
 
@@ -97,17 +93,32 @@
       <description></description>
       <info></info>
     </award>
-  </awards>
+  </awards> -->
 
   <quotes>
     <quote>
-      <description></description>
-      <name></name>
-      <website></website>
-      <link></link>
+      <description>The VR market is still in it’s early days and much of what’s available is so called “on rail shooters” so it’s nice to have something a bit different. Something that uses the space extremely well and gives us a bit of humour with not a zombie in sight.</description>
+      <name>Impulse Gamer</name>
+      <website>http://www.impulsegamer.com</website>
+      <link>http://www.impulsegamer.com/prison-boss-vr-pc-game-review</link>
+    </quote>
+  
+    <quote>
+      <description>[...]this is a VR game we’d happily return to as a reward for good behavior.
+      </description>
+      <name>7/10 - UploadVR</name>
+      <website>https://uploadvr.com/</website>
+      <link>https://uploadvr.com/prison-boss-vr-review/</link>
+    </quote>
+  
+    <quote>
+      <description>Prison Boss VR is a “five minutes more” type of game</description>
+      <name>Vive Report</name>
+      <website>https://vivereport.com:</website>
+      <link>https://vivereport.com/2017/08/29/do-time-make-stuff-break-out-prison-boss-vr/</link>
     </quote>
   </quotes>
-
+<!--
   <additionals>
     <additional>
       <title></title>
@@ -164,6 +175,10 @@
     <credit>
       <person>Olivier Leclair</person>
       <role>Narrative Designer</role>      
+    </credit>
+    <credit>
+      <person>Frédéric Constantin</person>
+      <role>Community Manager</role>      
     </credit>
   </credits>
 
