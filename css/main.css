@@ -38,12 +38,14 @@ h1,h2,h3,h4,h5,h6 {
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
+
+
 .navbar-default {
   background-color: #f9b219;
   border-color: #5c4cff;
   width: 100%;
   max-width: 100%;
-  height: 100px;
+  min-height: 100px;
 }
 .navbar-default .navbar-brand {
   position: absolute;
