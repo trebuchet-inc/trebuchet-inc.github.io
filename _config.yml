@@ -5,5 +5,5 @@ theme: jekyll-theme-cayman
 
 site.title: Trebuchet
 
-gems:
+plugins:
   - jekyll-sitemap
