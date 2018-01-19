@@ -146,8 +146,10 @@ h1,h2,h3,h4,h5,h6 {
 -------------------------------------------------- */
 
 .jumbotron {
-  background: url("/img/pbvr_oculus_outnow.png") no-repeat center center;
-  background-size: cover;
+  background: url("/img/pbvr_oculus_outnow.png");
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center;
   height: 500px;
 }
 
