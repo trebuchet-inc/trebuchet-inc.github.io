@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Jousting Time!</title>
+
+  <release-dates>
+    <release-date>November 2018</release-date>
+  </release-dates>
+
+  <website>
+    http://jousting.fun
+  </website>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request></press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>PC / HTC Vive / Oculus Rift / Windows Mixed Reality</name>      
+    </platform>
+  </platforms>
+
+  <description>
+    Ever dreamt of becoming a jouster but realised at the last second that you don’t own a horse? Well, Jousting Time comes to the rescue. Jousting Time is an online multiplayer jousting game showcasing VR players fighting intense duels with interactive spectating features for non-VR players. 
+	
+	The game aims at creating a unique experience which bridges the gap between VR and non-VR players.
+  </description>
+
+  <history>
+    The first iteration of Jousting Time was born in a JamNation League game jam in fall 2017. Since then, the prototype has been showcased in different public events in Montreal, QC, where the developers are based. Following the positive reception, Trebuchet started to build a demo to launch a Kickstarter campaign and show it at PAX East in April 2018.
+  </history>
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <features>
+    <feature>
+      Competitive multiplayer arcade gameplay with innovative spectating interactions
+    </feature>
+    <feature>
+      Show off to the crowd!
+    </feature>
+    <feature>
+      Meet other fellow jousters in the Feast and defy them in the Arena
+    </feature>
+    <feature>
+      Original control scheme, easy to learn and hard to master !
+    </feature>
+    <feature>
+      Present on every desktop VR platform !
+    </feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Kickstarter Teaser #1</name>
+
+      <!-- Pick one: -->
+      <youtube>
+		xaGxGT3gAUU      
+	  </youtube>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+ 
+
+  <!-- <awards>
+    <award>
+      <description>
+	  
+	  </description>
+      <info></info>
+    </award>
+  </awards> -->
+
+ <!--  <quotes>
+    <quote>
+      <description>The VR market is still in it’s early days and much of what’s available is so called “on rail shooters” so it’s nice to have something a bit different. Something that uses the space extremely well and gives us a bit of humour with not a zombie in sight.</description>
+      <name>Impulse Gamer</name>
+      <website>http://www.impulsegamer.com</website>
+      <link>http://www.impulsegamer.com/prison-boss-vr-pc-game-review</link>
+    </quote>  
+  </quotes> -->
+<!--
+  <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals> -->
+
+  <credits>
+    <credit>
+      <person>Vincent Brunet-Dupont</person>
+      <role>CEO</role>      
+    </credit>
+    <credit>
+      <person>Guillaume Duquesne</person>
+      <role>Technical Director</role>      
+    </credit>
+    <credit>
+      <person>Alexandre Pernot Lopes</person>
+      <role>Creative Director</role>      
+    </credit>
+    <credit>
+      <person>Martin Lavoie</person>
+      <role>Lead Programmer</role>      
+    </credit>
+    <credit>
+      <person>Frédéric Constantin</person>
+      <role>Community Manager</role>      
+    </credit>   
+	<credit>
+      <person>Lucie Le Touze</person>
+      <role>Graphic Designer</role>      
+    </credit>
+  
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Alexandre Pernot Lopes</name>
+
+      <!-- Pick one: -->
+      <mail>alexandre@trebuchet.fun</mail>
+      <link></link>
+    </contact>
+    <contact>
+      <name>Vincent Brunet-Dupont</name>
+
+      <!-- Pick one: -->
+      <mail>vincent@trebuchet.fun</mail>
+      <link></link>
+    </contact>
+  </contacts>
+</product>
