@@ -26,7 +26,7 @@
   </description>
 
   <history>
-    The first iteration of Jousting Time was born in a JamNation League game jam in fall 2017. Since then, the prototype has been showcased in different public events in Montreal, QC, where the developers are based. Following the positive reception, Trebuchet started to build a demo to launch a Kickstarter campaign and show it at PAX East in April 2018.
+    The first iteration of Jousting Time was born in a JAMNATION League Game Jam 1.03 in fall 2017. Since then, the prototype has been showcased in different public events in Montreal, QC, where the developers are based. Following the positive reception, Trebuchet started to build a demo to launch a Kickstarter campaign and show it at PAX East in April 2018.
   </history>
 
   <!-- Or multiple blocks: -->
@@ -71,14 +71,26 @@
   <!-- You can set your widgets here (optional): -->
  
 
-  <!-- <awards>
+  <awards>
     <award>
       <description>
-	  
+		1st BEST INNOVATION
 	  </description>
-      <info></info>
+      <info>JAMNATION Game Jam 1.03</info>
     </award>
-  </awards> -->
+	<award>
+      <description>
+		3rd BEST EXPERIENCE
+	  </description>
+      <info>JAMNATION Game Jam 1.03</info>
+    </award>
+	<award>
+      <description>
+		3rd GRAND PRIZE
+	  </description>
+      <info>JAMNATION Game Jam 1.03</info>
+    </award>
+  </awards>
 
  <!--  <quotes>
     <quote>
