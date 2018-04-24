@@ -273,6 +273,10 @@ h1,h2,h3,h4,h5,h6 {
 	list-style: disc;
 }
 
+.blog-post p > a{
+	font-size: 18px;
+}
+
 .blogindex:hover .blog-post-title a:hover {
   background: #5c4cff;
   color: #faec3a;
