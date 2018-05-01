@@ -41,7 +41,7 @@ We have a lot of things in the backlog for Jousting Time, but we will start by w
 
 <br />
 
-To thank you for your early supporting, we are happy to give every backer a free key for the version that will be released in the next couple of months. You will be sent an email some time before the launch with a Steam key (we don’t have a release date at the moment but it should happen before July 2018).
+As the campaign was not successfully funded, we will not be able to deliver any physical or digital rewards. However, to thank you for your early supporting, we are happy to give every backer a free key for the version that will be released in the next couple of months. You will be sent an email some time before the launch with a Steam key (we don’t have a release date at the moment but it should happen before July 2018).
 
 This week, we are going to VRLA to present the game once more! We will write another post when we are back!
 
