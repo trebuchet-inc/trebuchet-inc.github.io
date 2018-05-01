@@ -1,0 +1,31 @@
+---
+
+layout: basic
+title: Blog
+permalink: /blog.html
+
+---
+
+{% if site.categories.blog2.size > 0 %}
+<div class="blogindex">
+    <ul>
+    {% for post in site.categories.blog2 %}
+        <li>
+            <div class="blog-post">
+                <h2 class="blog-post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                
+                <div class="blog-post-meta"><b>posted by {{ post.author }} on {{ post.date | date_to_string }}</b></div>
+                <div class="blog-post-excerpt">
+                    {{ post.excerpt }}  
+                </div>
+            </div>
+        </li>
+    {% endfor %}
+    </ul>
+</div>
+{% else %}
+<div class="container marketing">
+    <br />
+    <p align="center">There are no posts for the moment. Come back soon!</p>
+</div>
+{% endif %}
